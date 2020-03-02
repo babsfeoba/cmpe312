@@ -1,0 +1,65 @@
+<h1 style="font-family: &quot;open sans&quot;, sans-serif; text-align: center;">?Lab Schedule<br/></h1>
+<p>CMSE231 (FRI, 12:30-14:20)<br/></p>
+<table cellspacing="0" width="100%" class="ms-rteTable-default" style="background-color: #ffffff;">
+   <tbody>
+      <tr>
+         <td class="ms-rteTable-default" style="width: 181.2px;">Lab #<br/></td>
+         <td class="ms-rteTable-default" style="width: 179.6px;">Date</td>
+         <td class="ms-rteTable-default" style="width: 180.4px;">Description</td>
+      </tr>
+      <tr>
+         <td class="ms-rteTable-default">1<br/></td>
+         <td class="ms-rteTable-default">2020 March 13<br/></td>
+         <td class="ms-rteTable-default">
+            <span style="font-size: 16px;"><a href="/marifiguler/en/Documents/lab1.pdf">Experiment 1</a></span><br/></td>
+      </tr>
+      <tr>
+         <td class="ms-rteTable-default">2<br/></td>
+         <td class="ms-rteTable-default">2020 March 20<br/></td>
+         <td class="ms-rteTable-default">
+            <span style="font-size: 16px;"><a href="/marifiguler/en/Documents/lab2.pdf">Experiment 2</a></span></td>
+      </tr>
+      <tr>
+         <td class="ms-rteTable-default">3</td>
+         <td class="ms-rteTable-default">2020 March 27<br/></td>
+         <td class="ms-rteTable-default">
+            <span style="font-size: 16px;"><a href="/marifiguler/en/Documents/lab3.pdf">Experiment 3</a></span></td>
+      </tr>
+      <tr>
+         <td class="ms-rteTable-default">4<br/></td>
+         <td class="ms-rteTable-default">2020 April 24<br/></td>
+         <td class="ms-rteTable-default">
+            <span style="font-size: 16px;"><a href="/marifiguler/en/Documents/lab4.pdf">Experiment 4</a></span></td>
+      </tr>
+      <tr>
+         <td class="ms-rteTable-default">5<br/></td>
+         <td class="ms-rteTable-default">2020&#160;May&#160;08<br/></td>
+         <td class="ms-rteTable-default">
+            <span style="font-size: 16px;"><a href="/marifiguler/en/Documents/lab5.pdf">Experiment 5</a></span></td>
+      </tr>
+      <tr>
+         <td class="ms-rteTable-default">6<br/></td>
+         <td class="ms-rteTable-default">2020&#160;May&#160;15<br/></td>
+         <td class="ms-rteTable-default">
+            <span style="font-size: 16px;"><a href="/marifiguler/en/Documents/lab6.pdf">Experiment 6</a></span><br/></td>
+      </tr>
+   </tbody>
+</table>
+<p>
+   <span style="font-weight: 700;"><br/></span></p>
+<p>
+   <span style="font-weight: 700;">Assistant Information</span></p>
+<p>
+   <span style="font-weight: 700;">Name:</span><span style="font-weight: 700;">&#160;&#160;</span>Imen Souissi &#160;(Coordinator)<br/></p>
+<p>
+   <span style="font-weight: 700;">E-mail:&#160;</span><span style="font-size: 16px; font-weight: 700;">&#160;</span><span style="font-size: 16px;">I</span><span style="font-size: 16px;">men.</span><span style="font-size: 16px;">S</span><span style="font-size: 16px;">ouissi</span>@emu.edu.tr</p>
+<p>
+   <span style="font-weight: 700;">Office:&#160;</span>CMPE125<br/></p>
+<p>
+   <span style="font-weight: 700;">Office Tel:&#160;</span>0392 630 2831<br/></p>
+<p>
+   <span class="ms-rteThemeForeColor-6-5" style="text-decoration-style: solid; text-decoration-color: #006984;"><span style="font-weight: 700;"></span></span><span class="ms-rteThemeForeColor-5-0">For any question about your lab grade, please write a mail to&#160;<span class="ms-rteForeColor-1"><span style="font-size: 16px;">I</span><span style="font-size: 16px;">men.</span><span style="font-size: 16px;">S</span><span style="font-size: 16px;">ouissi</span><span style="font-size: 16px;"></span>@emu.edu.tr</span></span></p>
+<p>
+   <br/>
+   <br/>
+</p>
